@@ -1,4 +1,4 @@
-### Hi 👋, I'm Lakshitha
+### <h1 style="text-align:center;" > Hi 👋, I'm Lakshitha </h1>
 
 
 
