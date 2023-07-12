@@ -2,7 +2,23 @@
 
 
 <!-- <p align="center"><img align="left" width="180" height="160" margin-right="60px" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" height="180"></p> -->
-            
+            <!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+
+<div class="w3-container">
+  <h1>Spinning Elements</h1>
+  <p>Use the w3-spin class to spin an element 360 degrees:</p>
+  <p><i class="fa fa-spinner w3-spin" style="font-size:64px"></i></p>
+</div>
+
+</body>
+</html>
+
 - 🔭 I'm currently worknig **Leafycode International**
 - 🌱 I’m currently learning **Full Stack Development**
 - 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
