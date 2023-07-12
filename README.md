@@ -7,20 +7,13 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
 - 🎯 More focused on **Artificial Intelligence**
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 <br>
 
 ## <img style="height: 20px; width: 20px;" src="https://img.icons8.com/color/48/000000/settings--v1.png"/> Languages & Tools
 
 <p>
 
-<div class="w3-container w3-center w3-animate-top">
-  <h1>Animation is Fun!</h1>
-  <p>- 🔭 I'm currently worknig **Leafycode International**
-- 🌱 I’m currently learning **Full Stack Development**
-- 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
-- 🎯 More focused on **Artificial Intelligence**</p>
-</div>
 Languages :
 	<br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"> 
