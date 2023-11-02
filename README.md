@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
 - 🎯 More focused on **Artificial Intelligence**
+- 📫 You can reach me on wpslakshitha@gmail.com
 
 <br>
 
